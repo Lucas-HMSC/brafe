@@ -430,8 +430,8 @@ h2.produtos-mineiro:before {
     float: none;
     margin: 0;
   }
-  .footer-img {
+  .footer img {
     float: none;
-    margin: 20px 0;
+    margin: 20px auto;
   }
 }
