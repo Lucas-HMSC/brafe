@@ -3,7 +3,7 @@
 * Curso em andamento.
 * Layouts desenvolvidos:
   * Brafé 1 - Puro: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-1/puro) | [Site](https://lucas-hmsc.github.io/brafe/brafe-1/puro/)
-  * Brafé 1 - Grid: Código Fonte | Site
+  * Brafé 1 - Grid: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-1/grid) | [Site](https://lucas-hmsc.github.io/brafe/brafe-1/grid/)
   * Brafé 1 - FlexBox: Código Fonte | Site
   * Brafé 1 - Bootstrap: Código Fonte | Site
   
