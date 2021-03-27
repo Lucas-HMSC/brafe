@@ -1,2 +1,3 @@
-# brafe
-Curso de CSS Avançado na Origamid, com o professor André Rafael.
+# Brafé
+* Curso de CSS Avançado Posicionamento na Origamid, com o professor André Rafael.
+* Curso em andamento.
