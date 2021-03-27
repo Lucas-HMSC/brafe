@@ -1,6 +1,6 @@
 .container {
   max-width: 960px;
-  margin: o auto;
+  margin: 0 auto;
 }
 
 .container:before,
