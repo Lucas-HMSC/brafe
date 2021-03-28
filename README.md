@@ -9,8 +9,8 @@
   
   * Brafé 2 - Puro: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-2/puro) | [Site](https://lucas-hmsc.github.io/brafe/brafe-2/puro/)
   * Brafé 2 - Grid: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-2/grid) | [Site](https://lucas-hmsc.github.io/brafe/brafe-2/grid/)
-  * Brafé 2 - FlexBox: Código Fonte | Site
-  * Brafé 2 - Bootstrap: Código Fonte | Site
+  * Brafé 2 - FlexBox: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-2/flexbox) | [Site](https://lucas-hmsc.github.io/brafe/brafe-2/flexbox/)
+  * Brafé 2 - Bootstrap: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-2/bootstrap) | [Site](https://lucas-hmsc.github.io/brafe/brafe-2/bootstrap/)
 
   * Brafé 3 - Puro: Código Fonte | Site
   * Brafé 3 - Grid: Código Fonte | Site
