@@ -129,6 +129,12 @@ body {
 							80px 0 0 0 currentColor;
 }
 
+@media (max-width: 739px) {
+	.filtro {
+		display: none;
+	}
+}
+
 /*PRODUTOS*/
 
 .produtos h1 {
