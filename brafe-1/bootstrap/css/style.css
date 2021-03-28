@@ -87,7 +87,8 @@ img {
 
 /* Sobre */
 .sobre {
-  padding: 60px 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .sobre h2 {
   font-size: 2.25em;
@@ -183,18 +184,18 @@ h2.produtos-mineiro::before {
   padding-bottom: 60px;
 }
 .locais-item {
-	margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 .locais-item h2 {
   font-size: 2.25em;
-	margin-bottom: 20px;
-	font-weight: bold;
+  margin-bottom: 20px;
+  font-weight: bold;
 }
 .locais-item p {
   font-size: 1.125em;
   line-height: 1.4em;
-	max-width: 320px;
-	margin-bottom: 20px;
+  max-width: 320px;
+  margin-bottom: 20px;
 }
 .locais-item a {
   font-size: 1.125em;
@@ -202,15 +203,18 @@ h2.produtos-mineiro::before {
   text-decoration: none;
   border: 3px solid;
   color: #252525;
-	padding: 10px 20px;
+  padding: 10px 20px;
 }
 
 /* Assine */
 .assine {
   background: #e7e4d8;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .assine-info h2 {
   font-size: 2.25em;
+  font-weight: bold;
 }
 .assine-info p {
   font-size: 1.5em;
@@ -219,12 +223,20 @@ h2.produtos-mineiro::before {
 .assine form label {
   display: none;
 }
+.assine form {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
 .assine input {
   border: 3px solid #252525;
   background: none;
   font-size: 1.5em;
   font-style: italic;
   font-family: Georgia, serif;
+  align-self: flex-start;
+  padding: 10px;
 }
 .assine button {
   background: #252525;
@@ -234,13 +246,27 @@ h2.produtos-mineiro::before {
   font-size: 1.5em;
   color: #fff;
   cursor: pointer;
+  align-self: flex-start;
+  padding: 13px;
 }
 
 /*Footer*/
 .footer {
   background: #d6d3c8;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 .footer p {
   font-size: 1.125em;
   line-height: 1.4em;
+}
+.footer img {
+  float: right;
+}
+
+@media (max-width: 768px) {
+  .footer img {
+    float: none;
+    margin-top: 20px;
+  }
 }
