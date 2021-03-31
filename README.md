@@ -1,6 +1,5 @@
 # Brafé
 ### Curso de CSS Avançado Posicionamento na Origamid, com o professor André Rafael.
-### Curso em andamento.
 ### Layouts desenvolvidos:
   #### Brafé 1 - Puro: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-1/puro) | [Site](https://lucas-hmsc.github.io/brafe/brafe-1/puro/)
   #### Brafé 1 - Grid: [Código Fonte](https://github.com/Lucas-HMSC/brafe/tree/main/brafe-1/grid) | [Site](https://lucas-hmsc.github.io/brafe/brafe-1/grid/)
